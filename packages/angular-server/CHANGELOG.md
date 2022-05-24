@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.1.4-nightly.20220524](https://github.com/ionic-team/ionic/compare/v5.6.6...v6.1.4-nightly.20220524) (2022-05-24)
+
+
+### Bug Fixes
+
+* **angular-server:** publish only the dist directory to avoid import errors ([#24701](https://github.com/ionic-team/ionic/issues/24701)) ([2a27bef](https://github.com/ionic-team/ionic/commit/2a27befe463832b9ca7709ba22421abbdaa4cfa4)), closes [#24605](https://github.com/ionic-team/ionic/issues/24605)
+* **angular-server:** use correct @ionic/angular dependency version ([#24593](https://github.com/ionic-team/ionic/issues/24593)) ([be022f7](https://github.com/ionic-team/ionic/commit/be022f7de8df85ae842b0e111722b03448d60387)), closes [#24592](https://github.com/ionic-team/ionic/issues/24592)
+
+
+### Features
+
+* **angular:** build for angular 12.0 ([#23970](https://github.com/ionic-team/ionic/issues/23970)) ([3451a34](https://github.com/ionic-team/ionic/commit/3451a34ad0c893be0b6c17dc91ac9a75d2b9b52c))
+
+
+
+
+
 ## [6.1.3](https://github.com/ionic-team/ionic/compare/v6.1.2...v6.1.3) (2022-04-27)
 
 **Note:** Version bump only for package @ionic/angular-server
